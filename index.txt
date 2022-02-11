@@ -1,1 +1,3 @@
 Agregue un .txt
+
+arreglo lo que habia que arreglar
